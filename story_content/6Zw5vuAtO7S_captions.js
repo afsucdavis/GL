@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.68.28887.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.101%0D%0AIt%20is%20a%20good%20idea%20to%20save%20your%20journal%20first%20so%20you%20can%20review%20it%20before%20submission.%20%0D%0A%0D%0A"}')
